@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Splash Screen</string>
+    <string name="pilih_menu">Pilih Menu:</string>
+    <string name="dine_in">Dine In</string>
+    <string name="take_away">Take Away</string>
+    <string name="pilih_pesanan">Pilih Pesanan</string>
+    <string name="detail_pelanggan">Detail Pelanggan</string>
+    <string name="nomor_meja">Nomor Meja:</string>
+    <string name="Pilih_pesanan">Pilih Pesanan</string>
+    <string name="mj1">Meja 1</string>
+    <string name="mj2">Meja 2</string>
+    <string name="mj3">Meja 3</string>
+    <string name="mj4">Meja 4</string>
+    <string name="mj5">Meja 5</string>
+    <string name="identitas_pemesan">Identitas Pemesan</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="alamat">Alamat</string>
+    <string name="catatan">Catatan</string>
+    <string name="Pilih_Pesanan">Pilih Pesanan</string>
+</resources>
